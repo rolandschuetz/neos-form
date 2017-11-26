@@ -1,0 +1,12 @@
+
+# Form TS Object
+prototype(CodeQ.Form:Form) {
+	presetName = 'default'
+	@cache {
+		mode = 'uncached'
+		context {
+			1 = 'node'
+			2 = 'documentNode'
+		}
+	}
+}
