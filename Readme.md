@@ -1,5 +1,3 @@
 --------------
-Content NodeType: Form
+DEPRECATED in favor of [neos/nodetypes-form](https://github.com/neos/nodetypes-form)
 --------------
-
-This implementation is fully based on [Neos.NodeTypes](https://github.com/neos/neos-nodetypes).
